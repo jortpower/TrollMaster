@@ -1,0 +1,9 @@
+name: TrollMaster
+version: 1.0
+main: dev.crystalcraft.trollmaster.TrollMaster
+permissions:
+  trollMaster.troll:
+    default: op
+commands:
+  troll:
+    permission: trollMaster.troll
